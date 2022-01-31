@@ -1,0 +1,12 @@
+[ { "relation": [ "delegate_permission/common.handle_all_urls" ], 
+    "target": {
+      "namespace": "android_app", "package_name": "cards.mymy", 
+      "sha256_cert_fingerprints": [
+        "CB:FE:5F:52:BF:A7:5C:FD:1B:F3:4D:4F:45:9E:F7:FC:A1:AA:1D:68:33:6D:FD:05:A7:1D:E2:C3:4C:DA:9E:00", 
+        "C1:28:F7:86:23:5F:15:0E:C0:61:06:5D:4E:E3:DC:7E:D5:0E:39:94:E1:C9:CF:91:2C:CB:D0:87:23:D0:F2:4A", 
+        "C0:66:0F:03:03:57:6A:A3:6C:24:9B:6B:35:20:8A:46:2A:BF:18:03:77:4B:23:2C:A0:54:74:50:2A:5D:EF:B5",
+        "7D:31:04:75:A1:5A:DF:33:96:F1:71:B9:B0:49:F4:61:FB:CA:EB:7F:D0:C2:28:48:B1:05:AE:71:63:7C:F3:F8"
+      ]
+    }
+  }
+]
